@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.1.0 - 2022-10-06
+#### Documentation
+- refine information about cog usage - (52e325f) - iamnoah
+- add license - (9f2e706) - iamnoah
+
+- - -
+
 ## v2.0.0 - 2022-10-06
 #### Bug Fixes
 - removed wrong doc - (8e2926f) - iamnoah
