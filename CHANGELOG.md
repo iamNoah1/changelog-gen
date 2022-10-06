@@ -2,6 +2,16 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.2.0 - 2022-10-06
+#### Documentation
+- correct description of commit types - (7835380) - iamnoah
+#### Features
+- remove feature 1 - (6189be6) - iamnoah
+#### Miscellaneous Chores
+- add ignore merge commits to cog config - (923b96a) - iamnoah
+
+- - -
+
 ## v0.1.0 - 2022-10-06
 #### Documentation
 - new doc - (e30655c) - iamnoah
