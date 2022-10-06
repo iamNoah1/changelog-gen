@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v1.0.0 - 2022-10-06
+
+- - -
+
 ## v0.2.0 - 2022-10-06
 #### Documentation
 - correct description of commit types - (7835380) - iamnoah
