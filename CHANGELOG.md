@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.0.0 - 2022-10-06
+#### Bug Fixes
+- removed wrong doc - (8e2926f) - iamnoah
+
+- - -
+
 ## v1.0.0 - 2022-10-06
 
 - - -
