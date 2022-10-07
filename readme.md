@@ -53,3 +53,6 @@ Notes:
 ## Other Tooling
 * https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits
 * https://github.com/commitizen/cz-cli, downside: needs a nodejs project 
+* https://github.com/googleapis/release-please
+* https://github.com/semantic-release/semantic-release 
+* https://github.com/orhun/git-cliff
